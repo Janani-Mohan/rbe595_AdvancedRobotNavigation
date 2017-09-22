@@ -1,0 +1,9 @@
+The main goal of this homework is to write a computer program that simulates the motion of a robot in a 2D environment.
+The robot should be able to move in any direction with a constant velocity, while avoiding obstacles. (Random motion)
+The obstacle avoidance approach should consist in computing the Euclidian distance of the robot in 8 directions (45 degrees separation) with a defined collision threshold.
+Your simulator should be able to:
+-	Stream relative rotation
+-	Stream absolute position
+-	Stream relative translation
+-	Switch on/off path tracking
+-	Save the data and record a video
